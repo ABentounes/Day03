@@ -1,0 +1,3 @@
+Emetteur :nc -l 5000
+
+Receveur: nc localhost 5000

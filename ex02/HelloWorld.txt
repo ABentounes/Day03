@@ -1,0 +1,3 @@
+Emetteur:nc -l -p 1605
+
+Receveur: nc 192.168.43.135 1605
